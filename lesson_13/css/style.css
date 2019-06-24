@@ -1,0 +1,47 @@
+body {
+    background: grey;
+    font-family: Arial;
+}
+body *{
+    align-items: center;
+}
+.cont{
+    padding: 110px 50%;
+}
+.box{
+    background-color: #01b3b3;
+    color: white;
+    width: 149px;
+    height: 25px;
+    font-size: 12px;
+    display: inline-block;
+    position: absolute;
+    z-index: 1;
+    margin-left: -100px;
+    margin-top: -10px;
+    text-align: center;
+}
+.form{
+    margin-left: -150px;
+    border: 1px solid black;
+    display: inline-block;
+    background: #fff;
+    padding: 54px 28px 10px 29px;
+    z-index: 2;
+}
+.form p{
+    font-size: 12px;
+    text-align: left;
+}
+.form span{
+    color: #01b3b3;
+}
+.form input{
+    background-color: grey;
+    margin-bottom: 20px;
+}
+.form-btn{
+    font-size: 20px;
+    color: #fff;
+    background-color: #01b3b3;
+}
