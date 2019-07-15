@@ -7,10 +7,10 @@
 [Урок 13](danilkurylin.github.io/lesson_13/index.html "Сайт для ДЗ") - Верстка для ДЗ
 
 
-[Практический урок 1](danilkurylin.github.io/practic_1/index.html "Практика 1") - Практика)
+[Практический урок 1](danilkurylin.github.io/practic_1/index.html "Практика 1") - Практика (͡๏̯͡๏)
 
 
 [Урок 14](danilkurylin.github.io/lesson_14/index.html "ДЗ") - ДЗ урока 14
 
 
-[Практический урок 2](danilkurylin.github.io/practic_2/index.html "Практика 2") - Практика)
+[Практический урок 2](danilkurylin.github.io/practic_2/index.html "Практика 2") - Практика (͡๏̯͡๏)
