@@ -7,4 +7,6 @@
 [Урок 13](danilkurylin.github.io/lesson_13/index.html "Сайт для ДЗ") - Верстка для ДЗ
 
 
-[Практика 1](danilkurylin.github.io/practic_1/index.html) - Практика)
+[Практика 1](danilkurylin.github.io/practic_1/index.html "Practic") - Практика)
+
+[Урок 14](danilkurylin.github.io/lesson_14/index.html "ДЗ") - ДЗ урока 14
