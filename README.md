@@ -14,3 +14,6 @@
 
 
 [Практический урок 2](danilkurylin.github.io/practic_2/index.html "Практика 2") - Практика (͡๏̯͡๏)
+
+
+[Урок 15](danilkurylin.github.io/lesson_15/index.html "ДЗ") - ДЗ урока 15
