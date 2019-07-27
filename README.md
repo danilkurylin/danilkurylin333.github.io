@@ -19,4 +19,4 @@
 [Урок 15](danilkurylin.github.io/lesson_15/index.html "ДЗ") - ДЗ урока 15
 
 
-[Практический урок 3](danilkurylin.github.io/practic_3/index.html "Практика 3") - Практика (͡๏̯͡๏)
+[Практический урок 3](danilkurylin.github.io/practic_3/src/index.html "Практика 3") - Практика (͡๏̯͡๏)
