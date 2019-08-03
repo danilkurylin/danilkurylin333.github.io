@@ -20,3 +20,6 @@
 
 
 [Практический урок 3](danilkurylin.github.io/practic_3/src/index.html "Практика 3") - Практика (͡๏̯͡๏)
+
+
+[Урок 16](danilkurylin.github.io/lesson_16/index.html "ДЗ") - ДЗ урока 16
