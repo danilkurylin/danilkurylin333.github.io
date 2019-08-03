@@ -1,0 +1,10 @@
+.wrap {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+.wrap-box {
+  display: inline-block;
+  width: auto;
+  height: 500px;
+}
