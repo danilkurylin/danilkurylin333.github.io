@@ -1,0 +1,13 @@
+.main {
+  padding: 200px;
+  text-align: center;
+}
+.box button {
+  background-color: #0bbaf0;
+  border: none;
+  padding: 15px;
+  font-size: 20px;
+}
+.content {
+  font-size: 20px;
+}
