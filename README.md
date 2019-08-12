@@ -38,7 +38,9 @@
 
 
 Урок 18:
-        [Табы](danilkurylin.github.io/lesson_18_tab/index.html "ДЗ") - ДЗ урока 18
-        [Аккордионы](danilkurylin.github.io/lesson_18_collapse/index.html "ДЗ") - ДЗ урока 18
+
+                [Табы](danilkurylin.github.io/lesson_18_tab/index.html "ДЗ") - ДЗ урока 18
+        
+                [Аккордионы](danilkurylin.github.io/lesson_18_collapse/index.html "ДЗ") - ДЗ урока 18
 
 
