@@ -32,3 +32,6 @@
 
 
 [Урок 17](danilkurylin.github.io/lesson_17/index.html "ДЗ") - ДЗ урока 17
+
+
+[Практический урок 5](danilkurylin.github.io/practic_5/index.html "Практика 5") - Практика (͡๏̯͡๏)
