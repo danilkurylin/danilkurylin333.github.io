@@ -41,3 +41,6 @@
 
 
 [Аккордионы](danilkurylin.github.io/lesson_18_collapse/index.html "ДЗ") - ДЗ урока 18
+
+
+[Практический урок 6](danilkurylin.github.io/practic_6/index.html "Практика 6") - Практика (͡๏̯͡๏)
