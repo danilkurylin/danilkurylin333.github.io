@@ -44,3 +44,6 @@
 
 
 [Практический урок 6](danilkurylin.github.io/practic_6/index.html "Практика 6") - Практика (͡๏̯͡๏)
+
+
+[Ссылка на Быкова](danilkurylin.github.io/Bukov/index.html "Художники") - Ссылка на Быкова
