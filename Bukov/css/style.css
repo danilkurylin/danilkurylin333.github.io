@@ -92,18 +92,15 @@ body {
 }
 .galery-header {
   text-align: center;
-  margin-bottom: 40px;
-}
-.fotorama {
-  text-align: center;
-  display: inline-block;
+  margin-bottom: 60px;
 }
 @media (max-width: 992px) {
   .header-box {
     text-align: center;
   }
-  .iskl-2 {
+  .wrap {
     overflow: scroll;
+    font-size: 20px;
   }
 }
 @media (max-width: 768px) {
