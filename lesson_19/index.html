@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    
+    <div class="container">
+        <div class="box">
+            <div>
+
+                <!-- Навигация -->
+                <ul class="nav nav-tabs" role="tablist">
+                  <li class="active tab-btn"><a href="#home" data-toggle="tab">Вход</a></li>
+                  <li class=".tab-btn"><a href="#profile" data-toggle="tab">Регистрация</a></li>
+                </ul>
+              
+                <!-- Контент -->
+                <div class="tab-content cont">
+                  <div class="tab-pane active animated tada" id="home">
+                    <div class="wrap">
+                        <!-- Инпуты для ввода -->
+                        <form action="#">
+                            <input type="text" class="wrap-input" placeholder="Ваше имя">
+                            <input type="text" class="wrap-input" placeholder="Пароль">
+                        </form>
+                        <!-- Ссылка забыли пароль? -->
+                        <a href="#" class="wrap-text">Забыли пароль?</a>
+                        <!-- Чекбокс -->
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" class="che-box" value="">
+                                    <p>Напомнить мне</p>
+                            </label>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="tab-pane animated tada" id="profile">
+                        <div class="wrap">
+                            <!-- Инпуты для ввода -->
+                            <form action="#">
+                                <input type="text" class="wrap-input two" placeholder="Ваше имя">
+                                <input type="text" class="wrap-input two" placeholder="Пароль">
+                                <input type="text" class="wrap-input two" placeholder="Повторите пароль">
+                            </form>
+                            <!-- Чекбокс -->
+                            <div class="checkbox">
+                                <label>
+                                    <input type="checkbox" class="che-box" value="">
+                                    <p>Согласен с политикой соглашения</p>
+                                </label>
+                            </div>
+                            
+                        </div>
+                  </div>
+                </div>
+              
+              </div>
+        </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="https://raw.githubusercontent.com/matthieua/WOW/20848c410fe32d161c2330e1d261b59512094f81/dist/wow.min.js"></script>
+</body>
+</html>

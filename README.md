@@ -28,9 +28,6 @@
 [Практический урок 4](danilkurylin.github.io/practic_4/index.html "Практика 4") - Практика (͡๏̯͡๏)
 
 
-[Ссылка на Башегурова](danilkurylin.github.io/Bashegurov/index.html "Художники") - Ссылка на Башегурова
-
-
 [Урок 17](danilkurylin.github.io/lesson_17/index.html "ДЗ") - ДЗ урока 17
 
 
@@ -47,3 +44,6 @@
 
 
 [Ссылка на Быкова](danilkurylin.github.io/Bukov/index.html "Художники") - Ссылка на Быкова
+
+
+[Урок 19](danilkurylin.github.io/lesson_19/index.html "ДЗ") - ДЗ урока 19
