@@ -47,3 +47,6 @@
 
 
 [Урок 19](danilkurylin.github.io/lesson_19/index.html "ДЗ") - ДЗ урока 19
+
+
+[Практический урок 7](danilkurylin.github.io/practic_7/index.html "Практика 7") - Практика (͡๏̯͡๏)
