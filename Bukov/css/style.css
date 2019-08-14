@@ -95,7 +95,7 @@ body {
   margin-bottom: 60px;
 }
 @media (max-width: 992px) {
-  .header-box {
+  .header-bash {
     text-align: center;
   }
   .wrap {
@@ -107,5 +107,19 @@ body {
   .wrap {
     font-size: 25px;
     overflow: scroll;
+  }
+  .galery {
+    height: 680px;
+  }
+  .header-bash {
+    text-align: center;
+  }
+}
+@media (max-width: 398px) {
+  .header-box p {
+    font-size: 18px;
+  }
+  .galery {
+    height: 500px;
   }
 }
