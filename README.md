@@ -50,3 +50,6 @@
 
 
 [Практический урок 7](danilkurylin.github.io/practic_7/index.html "Практика 7") - Практика (͡๏̯͡๏)
+
+
+[Урок 20](danilkurylin.github.io/lesson_20/index.html "ДЗ") - ДЗ урока 20
