@@ -53,3 +53,6 @@
 
 
 [Урок 20](danilkurylin.github.io/lesson_20/index.html "ДЗ") - ДЗ урока 20
+
+
+[Практический урок 8](danilkurylin.github.io/practic_8/index.html "Практика 8") - Практика (͡๏̯͡๏)
