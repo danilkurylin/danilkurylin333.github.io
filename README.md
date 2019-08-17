@@ -1,5 +1,4 @@
 # Курылин Данил
-## Сайты с курса ВР10
 
 [Урок 9](danilkurylin.github.io/lesson_12/index.html "Сайт на bootstrap3") - Сайт на bootstrap3 с адаптацией
 
@@ -56,3 +55,6 @@
 
 
 [Практический урок 8](danilkurylin.github.io/practic_8/index.html "Практика 8") - Практика (͡๏̯͡๏)
+
+
+[Урок 21](danilkurylin.github.io/lesson_21/index.html "ДЗ") - ДЗ урока 21
