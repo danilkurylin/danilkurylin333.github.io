@@ -58,3 +58,6 @@
 
 
 [Урок 21](danilkurylin.github.io/lesson_21/index.html "ДЗ") - ДЗ урока 21
+
+
+[Практический урок 9](danilkurylin.github.io/practic_9/index.html "Практика 9") - Практика (͡๏̯͡๏)
