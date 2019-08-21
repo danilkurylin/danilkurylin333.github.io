@@ -70,3 +70,6 @@
 
 
 [Практический урок 11](danilkurylin.github.io/practic_11/index.html "Практика 11") - Практика (͡๏̯͡๏)
+
+
+[Практический урок 12](danilkurylin.github.io/practic_12/index.html "Практика 12") - Практика (͡๏̯͡๏)
