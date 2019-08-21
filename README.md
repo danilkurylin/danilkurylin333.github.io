@@ -61,3 +61,12 @@
 
 
 [Практический урок 9](danilkurylin.github.io/practic_9/index.html "Практика 9") - Практика (͡๏̯͡๏)
+
+
+[Урок 22](danilkurylin.github.io/lesson_22/index.html "ДЗ") - ДЗ урока 22
+
+
+[Практический урок 10](danilkurylin.github.io/practic_10/index.html "Практика 10") - Практика (͡๏̯͡๏)
+
+
+[Практический урок 11](danilkurylin.github.io/practic_11/index.html "Практика 11") - Практика (͡๏̯͡๏)
