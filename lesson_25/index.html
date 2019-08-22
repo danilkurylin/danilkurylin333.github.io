@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    
+    <div class="container">  
+        <form id="contact" action="mailer/smart.php" method="post">
+          <h3>ДЗ урока 25</h3>
+          <h4>Заполните форму</h4>
+          <fieldset>
+            <input placeholder="Ваше имя" name="user_name" type="text" tabindex="1" required autofocus>
+          </fieldset>
+          <fieldset>
+            <input placeholder="Ваш Email" name="user_email" type="email" tabindex="2" required>
+          </fieldset>
+          <fieldset>
+            <input placeholder="Ваш телефон" name="user_phone" type="tel" tabindex="3" required>
+          </fieldset>
+          <fieldset>
+            <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Отправить</button>
+          </fieldset>
+        </form>
+      </div>
+
+
+      <script src="http://code.jquery.com/jquery-1.12.4.min.js"></script>
+	<script>
+		$('form').submit(function(event) {
+			event.preventDefault();
+			$.ajax({
+				type: "POST",
+				url: "mailer/smart.php",
+				data: $(this).serialize()
+			}).done(function() {
+				$(this).find("input").val("");
+				alert("Сообщение успешно отправлено");
+				$("form").trigger("reset");
+			});
+			return false;
+		});
+	</script>
+
+</body>
+</html>
