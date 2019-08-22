@@ -73,3 +73,6 @@
 
 
 [Практический урок 12](danilkurylin.github.io/practic_12/index.html "Практика 12") - Практика (͡๏̯͡๏)
+
+
+[Урок 25](danilkurylin.github.io/lesson_25/index.html "ДЗ") - ДЗ урока 25
