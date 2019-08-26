@@ -6,9 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Практика</title>
 
-        <!-- Bootstrap CSS -->
-        <link href="css/bootstrap.css" rel="stylesheet">
-        <link rel="stylesheet" href="css/style.css">
+        
     </head>
     <body>
         <!-- Первый блок -->
@@ -66,10 +64,10 @@
                                 <h2 class="main-form-header">Для расчёта точной стоимости закажите <strong>выезд замерщика</strong></h2>
                                 
                                 <form class="form" action="#">
-                                    <label for="#">Ваше имя</label>
-                                    <input class="form-input" type="text">
-                                    <label for="#">Номер телефон</label>
-                                    <input class="form-input" type="text">
+                                    <label for="name-1">Ваше имя</label>
+                                    <input class="form-input" id="name-1" type="text">
+                                    <label for="phone-1">Номер телефон</label>
+                                    <input class="form-input" id="phone-1" type="text">
                                     <button class="form-btn button" type="submit">Оставьте заявку</button>
                                     <small>Приедем в день обращения*</small>
                                 </form>
@@ -110,7 +108,7 @@
                     <div class="features-block">
                         <div class="features-img">
                             <picture>
-                                <source srcset="img/features/coin.svg" type="image/">
+                                <source srcset="img/features/coin.svg" type="image/svg+xml">
                                 <img src="img/features/coin.png" alt="Платите по факту">
                             </picture>
                         </div>
@@ -122,7 +120,7 @@
                     <div class="features-block">
                         <div class="features-img">
                             <picture>
-                                <source srcset="img/features/folder.svg" type="image/">
+                                <source srcset="img/features/folder.svg" type="image/svg+xml">
                                 <img src="img/features/folder.png" alt="Заключаем договор">
                             </picture>
                         </div>
@@ -134,7 +132,7 @@
                     <div class="features-block">
                         <div class="features-img">
                             <picture>
-                                <source srcset="img/features/clock.svg" type="image/">
+                                <source srcset="img/features/clock.svg" type="image/svg+xml">
                                 <img src="img/features/clock.png" alt="Точно в срок">
                             </picture>
                         </div>
@@ -147,7 +145,7 @@
                     <div class="features-block">
                         <div class="features-img">
                             <picture>
-                                <source srcset="img/features/piggy-bank.svg" type="image/">
+                                <source srcset="img/features/piggy-bank.svg" type="image/svg+xml">
                                 <img src="img/features/piggy-bank.png" alt="Экономьте на материалах">
                             </picture>
                         </div>
@@ -470,13 +468,13 @@
                             <form class="form" action="#">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <label class="form-label" for="#">Ваше имя</label>
-                                        <input class="form-input" type="text">
+                                        <label class="form-label" for="name-2">Ваше имя</label>
+                                        <input class="form-input" id="name-2" type="text">
                                     </div>
 
                                     <div class="col-md-6">
-                                        <label class="form-label" for="#">Номер телефон</label>
-                                        <input class="form-input" type="text">
+                                        <label class="form-label" for="phone-2">Номер телефон</label>
+                                        <input class="form-input" id="phone-2" type="text">
                                     </div>
 
                                 </div>
@@ -828,7 +826,7 @@
 
                     <div class="features-block materials-block">
                         <div class="materials-img">
-                            <picture></picture>
+                            <picture>
                                 <img src="img/material/knauf.png" alt="Knauf">
                             </picture>
                         </div>
@@ -896,7 +894,7 @@
                         
                         <div class="col-lg-5 col-md-7 col-md-offset-0 col-sm-8 col-sm-offset-2 col-xs-12">
                             <div class="main-title">
-                                <h1>Посмотрите <br> как мы работаем</h1>
+                                <h2>Посмотрите <br> как мы работаем</h2>
                                 <p class="tour-subtitle">Хотите удостовериться в профессионализме наших сотрудников?</p>
                                 <p class="tour-subtitle">Вы можете сделать это, приехав на один из наших объектов, и понаблюдав за ходом работ. Увидите оборудование, материалы и качество исполнения.</p>
                             </div>
@@ -910,10 +908,10 @@
                                 <h2 class="main-form-header">Для расчёта точной стоимости закажите <strong>выезд замерщика</strong></h2>
                                 
                                 <form class="form" action="#">
-                                    <label for="#">Ваше имя</label>
-                                    <input class="form-input" type="text">
-                                    <label for="#">Номер телефон</label>
-                                    <input class="form-input" type="text">
+                                    <label for="name-3">Ваше имя</label>
+                                    <input class="form-input" id="name-3" type="text">
+                                    <label for="phone-3">Номер телефон</label>
+                                    <input class="form-input" id="phone-3" type="text">
                                     <button class="form-btn button tour-btn" type="submit">записаться на просмотр</button>
                                     <small>Подберем ближайщий к вам объект</small>
                                 </form>
@@ -989,7 +987,7 @@
                         <p>Адрес офиса: <br> Челябинск, копейское шоссе, 12, офис 34</p>
 
                         <div class="map">
-                            <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A975f236624fcdce02e879dc0b8d6d506f953c29d5f36135aa7a445ff77be9d7e&amp;width=100%25&amp;height=240&amp;lang=ru_RU&amp;scroll=false"></script>
+                            <script async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A975f236624fcdce02e879dc0b8d6d506f953c29d5f36135aa7a445ff77be9d7e&amp;width=100%25&amp;height=240&amp;lang=ru_RU&amp;scroll=false"></script>
                         </div>
 
                         <p>Номер телефона: <br> <strong> +7 495 771 05 08</strong></p>
@@ -1005,14 +1003,14 @@
                             <h2 class="contacts-form-header">Оставьте контактные данные  для связи</h2>
                             
                             <form class="form" action="#">
-                                <label for="#">Ваше имя</label>
-                                <input class="form-input" type="text">
-                                <label for="#">Номер телефон</label>
-                                <input class="form-input" type="text">
-                                <label for="#">E-mail</label>
-                                <input class="form-input" type="email">
-                                <label for="#">Сообщение</label>
-                                <textarea class="form-textarea" rows="5"></textarea>
+                                <label for="name-4">Ваше имя</label>
+                                <input class="form-input" id="name-4" type="text">
+                                <label for="phone-4">Номер телефон</label>
+                                <input class="form-input" id="phone-4" type="text">
+                                <label for="email-1">E-mail</label>
+                                <input class="form-input" id="email-1" type="email">
+                                <label for="messege">Сообщение</label>
+                                <textarea class="form-textarea" id="messege" rows="5"></textarea>
                                 <button class="form-btn button" type="submit">Оставьте заявку</button>
                             </form>
 
@@ -1103,6 +1101,10 @@
             </div>
         </div>
 
+
+        <!-- Bootstrap CSS -->
+        <link href="css/bootstrap.css" rel="stylesheet">
+        <link rel="stylesheet" href="css/style.css">
         <!-- jQuery -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
         <!-- Fotorama -->
