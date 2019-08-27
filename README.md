@@ -79,3 +79,6 @@
 
 
 [Практический урок 13](danilkurylin.github.io/practic_13/index.html "Практика 13") - Практика (͡๏̯͡๏)
+
+
+[Урок 28](danilkurylin.github.io/lesson_28/index.html "ДЗ") - ДЗ урока 28
