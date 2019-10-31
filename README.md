@@ -82,3 +82,6 @@
 
 
 [Урок 28](danilkurylin.github.io/lesson_28/index.html "ДЗ") - ДЗ урока 28
+
+
+[Ссылка на Художников](danilkurylin.github.io/drowers/index.html "Художники") - Ссылка на Художников
