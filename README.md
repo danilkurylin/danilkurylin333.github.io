@@ -87,4 +87,4 @@
 [Ссылка на Художников](danilkurylin.github.io/Main-menu/index.html "Художники") - Ссылка на Художников
 
 
-[Ссылка на портфолио](danilkurylin.github.io/mysite/index.html "Портфолио") - Ссылка на портфолио
+[Ссылка на портфолио](mysite/index.html "Портфолио") - Ссылка на портфолио
