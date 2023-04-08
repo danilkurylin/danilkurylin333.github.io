@@ -84,7 +84,7 @@
 [Урок 28](danilkurylin.github.io/lesson_28/index.html "ДЗ") - ДЗ урока 28
 
 
-[Ссылка на Художников](danilkurylin.github.io/Main-menu/index.html "Художники") - Ссылка на Художников
+[Ссылка на Художников](danilkurylin333.github.io/Main-menu/index.html "Художники") - Ссылка на Художников
 
 
 [Ссылка на портфолио](mysite/index.html "Портфолио") - Ссылка на портфолио
